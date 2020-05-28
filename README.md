@@ -1,4 +1,5 @@
-# MIS 665 Final Project
-## Link to video presentation
-https://vimeo.com/378683139
-(Password: data)
+# MIS_670_Final_Project
+
+If you're not able to view interactive visuals, visit https://nbviewer.jupyter.org/ and paste https://github.com/jbothner21/MIS_665_Final_Project into the search bar.
+
+Watch the video presentation here: https://youtu.be/QsSIUkY10kY
